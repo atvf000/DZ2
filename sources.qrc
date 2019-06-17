@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/source">
+        <file>source/background.jpg</file>
+        <file>source/2.jpg</file>
+        <file>source/4.jpg</file>
+        <file>source/8.jpg</file>
+        <file>source/16.jpg</file>
+        <file>source/32.jpg</file>
+        <file>source/64.jpg</file>
+        <file>source/128.jpg</file>
+        <file>source/256.jpg</file>
+        <file>source/512.jpg</file>
+        <file>source/1024.jpg</file>
+        <file>source/2048.jpg</file>
+        <file>source/1.jpg</file>
+        <file>source/win.png</file>
+        <file>source/lose.png</file>
+    </qresource>
+</RCC>
